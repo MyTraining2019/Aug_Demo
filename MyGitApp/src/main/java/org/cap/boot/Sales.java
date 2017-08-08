@@ -8,5 +8,9 @@ public class Sales {
 		for(int i=0;i<100;i++)
 			sum+=i;
 	}
+	
+	public void show(){
+		System.out.println("Show Method!");
+	}
 
 }
