@@ -6,10 +6,8 @@ public class Sales {
 	public void display(){
 		System.out.println("Display Sum");
 		int sum=0;
-		for(int num:arr)
-			sum+=num;
-		
-		System.out.println("Sum of Array:" + sum);
+		for(int i=0;i<arr.length;i++)
+			sum+=arr[i];
 	}
 	
 	public void show(){
