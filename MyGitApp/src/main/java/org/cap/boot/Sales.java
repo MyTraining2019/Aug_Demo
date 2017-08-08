@@ -11,6 +11,10 @@ public class Sales {
 	
 	public void show(){
 		System.out.println("Show Method!");
+		System.out.println("Show Method!");
+		System.out.println("Show Method!");
+		System.out.println("Show Method!");
+		
 	}
 
 }
