@@ -8,7 +8,7 @@ public class MainClass {
 		System.out.println("Hai!");
 		System.out.println("Welcome!");
 		System.out.println("We are in GIT Repo!");
-		
+		System.out.println("We are in GIT Repo!");
 	}
 
 	public static void main(String[] args) {
